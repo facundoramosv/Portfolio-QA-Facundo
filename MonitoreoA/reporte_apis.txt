@@ -1,7 +1,0 @@
-📡 REPORTE DE ESTADO DE APIS PÚBLICAS
-🕒 2025-05-28 15:14:45
-==================================================
-✅ Rick and Morty está activa - Tiempo: 224.31ms
-✅ Cat Facts está activa - Tiempo: 355.43ms
-❌ API Inexistente no está disponible - Error: HTTPSConnectionPool(host='api.inventada123456.com', port=443): Max retries exceeded with url: /data (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026E9AA43250>: Failed to resolve 'api.inventada123456.com' ([Errno 11001] getaddrinfo failed)"))
-⚠️  OpenWeather sin API Key responde con código 401
